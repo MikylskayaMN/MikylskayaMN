@@ -1,5 +1,8 @@
 ### Всем привет 👋
 
+## Я начинающий QA Engineer в компании OKAY\QA
+
+
 <!--
 **MikylskayaMN/MikylskayaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
