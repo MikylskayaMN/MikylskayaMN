@@ -1,6 +1,11 @@
-# Всем привет 👋
+#  Hi there 👋
 
-## Я начинающий QA Engineer в компании OKAY\QA
+## I work a QA Engineer in a company OKAY\QA
+
+I like
+- 🍫
+- 💃
+- 🌻
 
 
 <!--
