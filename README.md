@@ -1,6 +1,6 @@
 #  Hi there 👋
 
-## I work a QA Engineer in a company OKAY\QA
+## QA Engineer
 
 I like
 
