@@ -3,10 +3,12 @@
 ## I work a QA Engineer in a company OKAY\QA
 
 I like
+
 - 🍫
 - 💃
 - 🌻
 
+and testing of course 💻
 
 <!--
 **MikylskayaMN/MikylskayaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
