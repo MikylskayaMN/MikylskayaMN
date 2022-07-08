@@ -13,6 +13,12 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif?cid=ecf05e47uf0o4zuip3x0gu3gbkj4oyp38sw5v2m3z2gc0rtk&rid=giphy.gif&ct=s" width="100"/>
 </div>
+
+<div id="badges">
+  <a href="your-linkedin-www.linkedin.com/in/mikulskaya-marharyta">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][www.linkedin.com/in/mikulskaya-marharyta]
 
 I like
